@@ -1,14 +1,3 @@
-# ERPNEXT Quick Start Guide
-
-### Creating a ERPNEXT website:
-
-https://github.com/user-attachments/assets/986ea632-6279-4521-8bc7-2fb50c2524df
-
-1. Make an ERPNEXT website [here](https://frappe.io/erpnext).
-2. Login with a Google Account or Signup.
-3. Specify the URL and the name of the website.
-4. Login and customize the preferences.
-
 ### Onboarding a User:
 
 https://github.com/user-attachments/assets/dd994786-aea9-4d6d-a65b-c6d9017d0de1
